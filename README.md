@@ -9,5 +9,5 @@ yo
 ```
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; bottom: 0; right: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; background: url('https://raw.githubusercontent.com/KebabOnline/KebabOnline/main/free-download.gif') no-repeat;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: auto; left: auto; bottom: 0; right: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; background: url('https://raw.githubusercontent.com/KebabOnline/KebabOnline/main/free-download.gif') no-repeat;]{x0000}$}
 
