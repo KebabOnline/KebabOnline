@@ -5,9 +5,9 @@ yo
 ```
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 55vh; left: 15vw; object-fit: cover; background-size: cover!important; width: 7vw; height: 7vh; animation: Overlay--motion-slideInLeft infinite alternate 3.50s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://raw.githubusercontent.com/KebabOnline/KebabOnline/main/sonic-mania-tails-the-fox.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 55vh; left: 15vw; object-fit: cover; background-size: cover!important; width: 7vh; height: 7vh; animation: Overlay--motion-slideInLeft infinite alternate 3.50s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://raw.githubusercontent.com/KebabOnline/KebabOnline/main/sonic-mania-tails-the-fox.gif');]{x0000}$}
 ```
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; bottom: 0; right: 0; object-fit: cover; background-size: cover!important; height: 5vh; width: 7vw; background: url('https://raw.githubusercontent.com/KebabOnline/KebabOnline/main/free-download.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; bottom: 0; right: 0; object-fit: cover; background-size: cover!important; height: 30vh; background: url('https://raw.githubusercontent.com/KebabOnline/KebabOnline/main/free-download.gif');]{x0000}$}
 
