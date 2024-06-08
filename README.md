@@ -5,4 +5,4 @@ yo
 ```
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 45vh; left: 15vw; object-fit: cover; background-size: cover!important; width: 7vh; height: 7vh; animation: Overlay--motion-slideInLeft infinite alternate 0.50s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://raw.githubusercontent.com/KebabOnline/KebabOnline/main/sonic-mania-tails-the-fox.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 45vh; left: 15vw; object-fit: cover; background-size: cover!important; width: 7vh; height: 7vh; animation: Overlay--motion-slideInLeft infinite alternate 3.50s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://raw.githubusercontent.com/KebabOnline/KebabOnline/main/sonic-mania-tails-the-fox.gif');]{x0000}$}
